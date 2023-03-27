@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hello! 👋🏾 Welcome to my Github! </samp></h4>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Giulia;Tenho+24+anos;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na FIAP!
 - 📫 Contate-me pelo email: giuliapina@gmail.com
