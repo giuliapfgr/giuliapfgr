@@ -14,5 +14,5 @@
           
 ### 🎧 Spotify Playing
 
-  [![Spotify](https:/novatorem-9gklqzq1p-giuliapina-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/giulinhasz)
+  [![Spotify](https:/novatorem-9gklqzq1p-giuliapfgr.vercel.app/api/spotify)](https://open.spotify.com/user/giulinhasz)
   
